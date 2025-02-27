@@ -1,0 +1,12 @@
+D:\Workspace\TechLibrary\TechLibrary.Communication\bin\Debug\net9.0\TechLibrary.Communication.deps.json
+D:\Workspace\TechLibrary\TechLibrary.Communication\bin\Debug\net9.0\TechLibrary.Communication.dll
+D:\Workspace\TechLibrary\TechLibrary.Communication\bin\Debug\net9.0\TechLibrary.Communication.pdb
+D:\Workspace\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.AssemblyInfoInputs.cache
+D:\Workspace\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.AssemblyInfo.cs
+D:\Workspace\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.csproj.CoreCompileInputs.cache
+D:\Workspace\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.sourcelink.json
+D:\Workspace\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.dll
+D:\Workspace\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\refint\TechLibrary.Communication.dll
+D:\Workspace\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.pdb
+D:\Workspace\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\ref\TechLibrary.Communication.dll
