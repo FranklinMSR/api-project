@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechLibrary.Api", "TechLibrary.Api\TechLibrary.Api.csproj", "{3656DD63-E5BF-4495-94FC-432E25181A38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechLibrary.Communication", "TechLibrary.Communication\TechLibrary.Communication.csproj", "{9713D78E-D449-4AF8-87EB-3DA253B24857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechLibrary.Exception", "TechLibrary.Exception\TechLibrary.Exception.csproj", "{5FC64AC5-D239-4278-BA0E-90598816296B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{3656DD63-E5BF-4495-94FC-432E25181A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3656DD63-E5BF-4495-94FC-432E25181A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3656DD63-E5BF-4495-94FC-432E25181A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9713D78E-D449-4AF8-87EB-3DA253B24857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9713D78E-D449-4AF8-87EB-3DA253B24857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9713D78E-D449-4AF8-87EB-3DA253B24857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9713D78E-D449-4AF8-87EB-3DA253B24857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC64AC5-D239-4278-BA0E-90598816296B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC64AC5-D239-4278-BA0E-90598816296B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC64AC5-D239-4278-BA0E-90598816296B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC64AC5-D239-4278-BA0E-90598816296B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
